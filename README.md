@@ -1,4 +1,4 @@
-#1 Hi im Kelsey Dickerman
+# Hi im Kelsey Dickerman
 
 I am a Junior Dev attetmpting to code the world
 I currently write in Javascript using React, NodeJS, etc.
